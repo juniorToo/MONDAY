@@ -43,7 +43,7 @@ body {
 
 .home {
 	color: white;
-	background: url("../images/doves2.jpg");
+	background: url("doves2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 500px;
@@ -131,7 +131,7 @@ body {
 }
 
 .container2 {
-	background: url("../images/hands1.jpg");
+	background: url("hands1.jpg");
 	background-size: cover;
 	height: 250px;
 }
@@ -139,7 +139,7 @@ body {
 	/* our community starts here */
 
 .Our-Community {
-	background: url("../images/sticks2.jpg");
+	background: url("sticks2.jpg");
 	background-size: cover;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -170,7 +170,7 @@ body {
 	padding: 0;
 }
 .section{
-	background: url("../images/grapes2.jpg");
+	background: url("grapes2.jpg");
 	background-size: cover;
 	height: 450px;
 	
